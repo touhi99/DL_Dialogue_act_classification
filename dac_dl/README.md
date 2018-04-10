@@ -10,7 +10,7 @@ Directory structure
 	- Test output
 
 Sample
--random utterence list similarly ordered for Speech and text data
+	-random utterence list similarly ordered for Speech and text data
 
 
 IMS Directory Structure
@@ -24,8 +24,8 @@ IMS Directory Structure
 
 Instruction
 
- -Speech file main function contains two lines calling parameter for two functions, one is commented out
- -Ensemble file also follows the same
+	-Speech file main function contains two lines calling parameter for two functions, one is commented out
+	-Ensemble file also follows the same
 
 
 Dependency
