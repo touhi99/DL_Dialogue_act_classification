@@ -1,0 +1,34 @@
+Text
+Single batch
+73.55
+
+Mini batch
+81.05
+
+MFCC 
+Loss: 0.7660310800808171
+Accuray: 69.7265625
+
+MFCC Reduced
+Loss: 0.7290516753370563
+Accuray: 72.03776041666667
+
+Prosodic
+Loss: 0.8198023093864322
+Accuray: 69.873046875
+
+Prosodic Reduced
+Loss: 0.792986325143526
+Accuray: 71.01236979166667
+
+pros ensemble concat 0.8163736977924904
+MFCC ensemble concat 0.811653645709157
+
+pros ensemble avg 0.770377604290843
+mfcc ensemble avg 0.706673176959157
+
+pros ensemble max 0.7433593751241764
+mfcc ensemble max 0.768684895709157
+
+pros ensemble add 0.8158203127483526
+mfcc ensemble add 0.7914713540424904
